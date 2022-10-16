@@ -7,6 +7,11 @@ This script will fetch the result into `results` file, and
 commit it with `git`. By doing so, we can send out git patch file
 to our email address and view the difference quickly.
 
+# Why?
+
+I hate to check the website every minute, which makes me anxious and depressed.
+So, I automate it and get rid of it from this stuff.
+
 
 # Prerequirements
 
