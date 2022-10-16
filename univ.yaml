@@ -1,0 +1,13 @@
+config:
+  season: F22
+
+univ:
+  - { inst: Stanford University, degree: PhD }
+  - { inst: University of Washington, degree: PhD }
+  - { inst: Massachusetts Institute of Technology (MIT), degree: PhD }
+  - { inst: University of North Carolina, degree: PhD }
+  - {
+      inst: "University of California, Berkeley",
+      degree: Masters,
+      program: Electrical Engineering And Computer Sciences,
+    }
